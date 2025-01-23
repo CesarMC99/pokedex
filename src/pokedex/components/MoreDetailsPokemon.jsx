@@ -1,5 +1,5 @@
 import { useContext } from "react"
-import { DataPokeContext } from "../context/data-poke-context/dataPokeContext"
+import { DataPokeContext } from "../context/data-poke-context/DataPokeContext"
 import { GiWeight } from "react-icons/gi";
 import { GiBodyHeight } from "react-icons/gi";
 

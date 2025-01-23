@@ -1,4 +1,4 @@
-import { useContext, useEffect, useState } from "react"
+import { useContext, useEffect } from "react"
 import { ListPokemon } from "../components/ListPokemon"
 import { Pagination } from "../components/Pagination"
 import { FilterPokeContext } from "../context/filter-poke-context/FilterPokeContext"

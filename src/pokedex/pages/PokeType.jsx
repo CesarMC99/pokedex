@@ -1,4 +1,4 @@
-import { useContext, useEffect, useState } from "react"
+import { useContext, useEffect } from "react"
 import { useParams } from "react-router"
 import { FilterTypePokeContext } from "../context/filter-type-poke-context/FilterTypePokeContext"
 import { ListPokemon } from "../components/ListPokemon"
