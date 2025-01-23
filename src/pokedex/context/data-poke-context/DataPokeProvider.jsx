@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { DataPokeContext } from "./dataPokeContext"
+import { DataPokeContext } from "./DataPokeContext"
 
 export const DataPokeProvider = ({children}) => {
 
